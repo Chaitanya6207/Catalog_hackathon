@@ -1,0 +1,7 @@
+Root.class
+BaseConverter.class
+InputJsonParser.class
+InputData.class
+PolynomialSolver.class
+LagrangeInterpolator.class
+Keys.class
